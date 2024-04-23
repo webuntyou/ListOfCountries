@@ -1,7 +1,7 @@
 # ListOfCountries
 
-|#|Courntry|
-|---|------|
+|#|Country|
+|:---:|:------:|
 |1|Argentina|
 |2|Australia|
 |3|Austria|
